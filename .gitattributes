@@ -1,0 +1,22 @@
+* text=auto !eol
+/AUTHORS -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/autogen.sh -text
+/configure.ac -text
+/mark5access.h -text
+/mark5access.pc.in -text
+mark5access/Makefile.am -text
+mark5access/mark5_stream.c -text
+mark5access/mark5_stream.h -text
+mark5access/mark5_stream_file.c -text
+mark5access/mark5_stream_memory.c -text
+mark5access/mark5_unpack.c -text
+tests/Makefile.am -text
+tests/test_mark5_stream.c -text
+work_in_progress/m5bupdate/Makefile -text
+work_in_progress/m5bupdate/vlba_stream.c -text
+work_in_progress/m5bupdate/vlba_stream.h -text
+work_in_progress/vlba_streams.Sheckard -text
