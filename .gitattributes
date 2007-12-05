@@ -16,6 +16,10 @@ examples/test_mark5_stream.c -text
 /mark5access.h -text
 /mark5access.pc.in -text
 mark5access/Makefile.am -text
+mark5access/blanker_mark4.c -text
+mark5access/blanker_mark5.c -text
+mark5access/blanker_none.c -text
+mark5access/format_k5.c -text
 mark5access/mark5_format_mark4.c -text
 mark5access/mark5_format_mark5b.c -text
 mark5access/mark5_format_vlba.c -text
