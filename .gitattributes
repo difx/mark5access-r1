@@ -6,6 +6,8 @@
 /NEWS -text
 /README -text
 /TODO -text
+bbsum/Makefile.am -text
+bbsum/bbsum.c -text
 /configure.ac -text
 doc/DeveloperGuide -text
 doc/Makefile.am -text
