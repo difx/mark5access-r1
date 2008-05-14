@@ -16,6 +16,7 @@ examples/Makefile.am -text
 examples/m5d.c -text
 examples/phxsel.c -text
 examples/test_mark5_stream.c -text
+examples/test_unpacker.c -text
 /mark5access.h -text
 /mark5access.pc.in -text
 mark5access/Makefile.am -text
