@@ -23,7 +23,6 @@ examples/test_unpacker.c -text
 /mark5access.h -text
 /mark5access.pc.in -text
 mark5access/Makefile.am -text
-mark5access/blanker_mark4.c -text
 mark5access/blanker_mark5.c -text
 mark5access/blanker_none.c -text
 mark5access/format_k5.c -text
